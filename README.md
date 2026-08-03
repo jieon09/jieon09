@@ -158,5 +158,5 @@ Git · Linux
 
 ## 📫 Contact
 
-GitHub: https://github.com/jieon09
-Email: pigrachel70@gmail.com
+- GitHub: https://github.com/jieon09
+- Email: pigrachel70@gmail.com
