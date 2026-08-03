@@ -42,20 +42,33 @@ Doosan Robotics ROKEY 부트캠프에서 ROS2, YOLO, OpenCV, Isaac Sim 등을 �
 
 ## 🛠 Tech Stack
 
-**Core Languages**
-Python · C++ · C
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**Robotics & Simulation**
-ROS2 · Nav2 · Gazebo · RViz · Isaac Sim · Doosan Robotics (M0609)
+### Robotics & Simulation
+![ROS2](https://img.shields.io/badge/ROS_2-HUMBLE-0A0A0A?style=for-the-badge&logo=ros&logoColor=white)
+![IsaacSim](https://img.shields.io/badge/NVIDIA_ISAAC_SIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Nav2](https://img.shields.io/badge/NAV2-NAVIGATION-555555?style=for-the-badge)
+![TurtleBot4](https://img.shields.io/badge/TURTLEBOT4-AMR-2CA5E0?style=for-the-badge)
+![Doosan](https://img.shields.io/badge/DOOSAN_M0609-COLLABORATIVE_ROBOT-1E3A8A?style=for-the-badge)
 
-**Vision & AI**
-YOLO(v8) · OpenCV · TensorFlow
+### AI / Vision / Data
+![YOLO](https://img.shields.io/badge/YOLO-OBJECT_DETECTION-00FFFF?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Backend / Database / Cloud**
-FastAPI · Flask · PostgreSQL · SQLite · AWS (EC2 · S3 · RDS)
+### Backend / Database / Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2·S3·RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Tools**
-Git · Linux
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
