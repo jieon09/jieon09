@@ -96,8 +96,8 @@ Git · Linux
 
 ### 2️⃣ 그림 그리GO, LEGO 만들GO (M0609) — 비전 인식 기반 레고 자동 조립 로봇
 
-**Role:** 로봇 위치 제어 및 비전 인식
-**Tech Stack:** ROS2, Python, YOLO, OpenCV, Flask, PostgreSQL, GSTT
+- **Role:** 로봇 위치 제어 및 비전 인식
+- **Tech Stack:** ROS2, Python, YOLO, OpenCV, Flask, PostgreSQL, GSTT
 
 **Main Contribution:**
 - 3점 캘리브레이션(보드 좌상·좌하·우하) 기반으로 row/col 셀 인덱스를 robot base 좌표로 변환하는 로직 구현
