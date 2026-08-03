@@ -26,7 +26,7 @@ https://youtu.be/T1Tjz3cdnXY
 
 ## 🤖 About Me
 
-**인식과 제어를 잇는 로봇 비전 개발자** | YOLO 기반 객체 탐지 · 좌표 변환 · Vision-to-Action
+**로봇 Vision 개발자** | YOLO 기반 객체 탐지 · 좌표 변환 · Vision-to-Action
 
 Doosan Robotics ROKEY 부트캠프에서 ROS2, YOLO, OpenCV, Isaac Sim 등을 활용해 로봇 비전 프로젝트를 진행해 왔습니다.
 저는 카메라가 무엇을 인식했는지보다, **그 인식 결과가 로봇의 실제 좌표와 동작으로 얼마나 정확하고 안정적으로 이어지는지**를 설계하는 데 관심이 많습니다.
